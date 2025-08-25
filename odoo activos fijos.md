@@ -76,6 +76,7 @@ https://www.youtube.com/watch?v=fISQeuan1WQ
 
 # preguntas y respeustas
 
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/5a4e6917-53e6-4fb2-aed2-d9f2556e76da" />
 
 
 
