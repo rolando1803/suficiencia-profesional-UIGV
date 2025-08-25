@@ -39,10 +39,10 @@ https://www.youtube.com/watch?v=fISQeuan1WQ
 <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/d278745d-bc42-4f08-ac6e-679837e123c1" />
 <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/8a028524-39fe-45bf-8923-c3c5c4d81e95" />
 <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/b7ac4660-a4c1-4d35-868a-feae2786f7c2" />
-<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/b7e4d306-085f-43de-8ed8-67df7680fa59" />
 
 # Opcion 2 Desde una factura
 
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/b7e4d306-085f-43de-8ed8-67df7680fa59" />
 <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/20f0a1d9-9bfe-40a8-86e0-a0ee761e730b" />
 <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/75c0cea9-83ba-40a5-b162-d49073b704ae" />
 <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/b61a5af3-d2db-4890-a475-5e71967b70f7" />
