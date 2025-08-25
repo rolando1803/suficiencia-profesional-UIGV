@@ -1,6 +1,6 @@
 https://www.youtube.com/watch?v=fISQeuan1WQ
 # Opcion 1 desde el modulo de activos 
-<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/776d9699-af52-4bdf-a423-a305e7671efd" />
+
 <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/069e49bd-b941-48b2-8832-794724765879" />
 <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/679868bb-cca2-4786-b4bf-547c771a82bc" />
 <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/5c48ce81-962b-4c1a-9a4a-8aaac0a2ec41" />
@@ -17,6 +17,7 @@ https://www.youtube.com/watch?v=fISQeuan1WQ
 <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/abacbe1f-8189-4480-b9a0-178273689b89" />
 <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/780390e4-c9fc-4ee8-989b-8ba698b8cd00" />
 <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/ab4b7dbc-889e-44ea-b10d-87704c51556e" />
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/776d9699-af52-4bdf-a423-a305e7671efd" />
 <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/32bc2fd2-b7eb-4422-8230-19142f69a8bb" />
 <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/33cfb8a8-f338-4cbe-ae13-e8c0a1f49329" />
 <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/3541fbc0-ea32-46ca-9dfe-58ccb5f4e1a9" />
