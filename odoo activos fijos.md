@@ -1,4 +1,5 @@
 https://www.youtube.com/watch?v=fISQeuan1WQ
+# Opcion 1 desde el modulo de activos 
 <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/776d9699-af52-4bdf-a423-a305e7671efd" />
 <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/069e49bd-b941-48b2-8832-794724765879" />
 <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/679868bb-cca2-4786-b4bf-547c771a82bc" />
@@ -33,4 +34,29 @@ https://www.youtube.com/watch?v=fISQeuan1WQ
 <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/90cf7555-8742-4e78-b90a-316e38543983" />
 <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/37ea6c8b-f045-4dbc-87b4-02639ed08571" />
 <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/a4fea70e-e925-4f29-b6ed-5517f4f858f2" />
-![Uploading image.png…]()
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/3a08fb03-d03b-4560-8307-057116cc0565" />
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/d278745d-bc42-4f08-ac6e-679837e123c1" />
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/8a028524-39fe-45bf-8923-c3c5c4d81e95" />
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/b7ac4660-a4c1-4d35-868a-feae2786f7c2" />
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/b7e4d306-085f-43de-8ed8-67df7680fa59" />
+
+# Opcion 2 Desde una factura
+
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/20f0a1d9-9bfe-40a8-86e0-a0ee761e730b" />
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/75c0cea9-83ba-40a5-b162-d49073b704ae" />
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/b61a5af3-d2db-4890-a475-5e71967b70f7" />
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/34ca4705-56ed-47b5-9f24-dd18a39b9418" />
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/34ee9225-22a5-4975-b2b5-a19e72b06dc9" />
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/8a461ab0-95ec-4239-aecd-3184af5f8a0c" />
+
+# Opcion 3 
+
+
+
+
+
+
+
+
+
+
