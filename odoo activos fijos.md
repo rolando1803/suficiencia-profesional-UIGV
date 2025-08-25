@@ -67,7 +67,14 @@ https://www.youtube.com/watch?v=fISQeuan1WQ
 <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/7281ec43-71a2-4398-b2f4-fb8ac81a7258" />
 <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/152a339b-1cdc-4477-8e26-11213b147093" />
 
+# Analizar nuestros activos
 
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/c45b8d9c-c8ce-478f-bef7-4bc0a120004f" />
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/9df6f396-0086-43df-b689-0455fe6ab802" />
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/92fe7720-f3cc-4390-869b-0220a7d0098a" />
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/b7b7f84e-c9d7-4be0-92cf-0a2f7023e4b5" />
+
+# preguntas y respeustas
 
 
 
